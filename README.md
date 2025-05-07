@@ -1,8 +1,9 @@
 <!-- Header with animated typing -->
 <h1 align="center">Hi 👋, I'm Birva Chudasama</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+Software+Developer" alt="Typing SVG" />
 </p>
+
 
 
 ---
