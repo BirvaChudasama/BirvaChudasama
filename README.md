@@ -1,5 +1,13 @@
+<!-- Header with animated typing -->
 <h1 align="center">Hi 👋, I'm Birva Chudasama</h1>
-<h3 align="center">Aspiring Data Analyst | Software Developer | ML Enthusiast</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+Software+Developer" alt="Typing SVG" />
+</h3>
+
+<!-- Optional background style (GitHub doesn't support true background images, so it's symbolic here) -->
+<p align="center">
+  <img src="https://www.transparenttextures.com/patterns/pw-maze-white.png" width="100%" height="1px" />
+</p>
 
 ---
 
@@ -42,6 +50,7 @@
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
 </p>
+
 
 ---
 
