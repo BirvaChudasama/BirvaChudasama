@@ -55,4 +55,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/birva-chudasama/)
 - 📩 Email: birva210@gmail.com  
-- 🌐 Portfolio: [birvachudasama.github.io](https://birvachudasama.github.io)
+- 🌐 Portfolio: (https://birvachudasama.github.io/BirvaChudasama_Portfolio.github.io/)
