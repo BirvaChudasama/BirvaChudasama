@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Birva Chudasama</h1>
+<h3 align="center">Data Analyst | ML Enthusiast | Power BI | Python</h3>
 
-<!--
-**BirvaChudasama/BirvaChudasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
+  <a href="https://birvachudasama.github.io/">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Master's student in **Computer Science (Big Data / AI)**
+- 📊 Strong in **Data Analysis, Visualization & ML**
+- 🧠 Interests: **Predictive Analytics, NLP, Dashboards**
+- 🇨🇦 Actively seeking **Data Analyst / BI roles in Canada**
+
+---
+
+### 🛠️ Tech Stack
+**Languages:**  
+Python, SQL, R  
+
+**Analytics & BI:**  
+Power BI, Excel, DAX  
+
+**ML & Data:**  
+Pandas, NumPy, Scikit-learn, NLP  
+
+**Tools:**  
+Git, GitHub, VS Code, Jupyter, Azure (basic)
+
+---
+
+### 📌 Featured Projects
+🔹 **Term Deposit Campaign Analysis**  
+Power BI dashboard analyzing customer conversion & targeting  
+
+🔹 **NYC Collisions & 311 Complaints**  
+Data cleaning, EDA & spatial insights  
+
+🔹 **Qualitative Analysis (NLP)**  
+Topic modeling, sentiment extraction  
+
+👉 *More projects below ↓*
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BirvaChudasama&show_icons=true&theme=tokyonight" />
+</p>
