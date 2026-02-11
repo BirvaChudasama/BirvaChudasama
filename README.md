@@ -61,8 +61,13 @@ I work with **Python, SQL, Power BI, Tableau**, and analytics workflows (cleanin
 
 ---
 
-## 🔥 Activity
-![GitHub Snake](https://github.com/BirvaChudasama/BirvaChudasama/blob/output/github-contribution-grid-snake.svg)
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2F74C0?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 
