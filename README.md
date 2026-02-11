@@ -21,13 +21,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m a **Data Analyst with experince of 3 years** focused on turning raw data into clear insights and dashboards for decision-making.  
 I work with **Python, SQL, Power BI, Tableau**, and analytics workflows (cleaning → analysis → visualization → reporting).
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 **Analytics:** Pandas, NumPy, Scikit-learn  
 **Visualization:** Power BI, Tableau, Matplotlib  
 **Databases:** MySQL, PostgreSQL, MongoDB  
@@ -46,7 +46,7 @@ I work with **Python, SQL, Power BI, Tableau**, and analytics workflows (cleanin
 
 ---
 
-## 📚 All Repositories (Complete)
+##  All Repositories 
 | Repo | Focus | Link |
 |------|-------|------|
 | **term-deposit-campaign-analysis** | Power BI dashboard & campaign insights | https://github.com/BirvaChudasama/term-deposit-campaign-analysis |
@@ -62,10 +62,12 @@ I work with **Python, SQL, Power BI, Tableau**, and analytics workflows (cleanin
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BirvaChudasama&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirvaChudasama&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BirvaChudasama&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirvaChudasama&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
