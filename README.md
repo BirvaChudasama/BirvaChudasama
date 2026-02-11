@@ -61,12 +61,8 @@ I work with **Python, SQL, Power BI, Tableau**, and analytics workflows (cleanin
 
 ---
 
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BirvaChudasama&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirvaChudasama&layout=compact&theme=tokyonight&cache_seconds=1800)
+## 🔥 Activity
+![GitHub Snake](https://github.com/BirvaChudasama/BirvaChudasama/blob/output/github-contribution-grid-snake.svg)
 
 
 
