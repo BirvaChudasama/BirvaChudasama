@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Master's student in **Computer Science (Big Data / AI)**
+- 🎓 3 years of Experience  as Data Analyst
 - 📊 Strong in **Data Analysis, Visualization & ML**
 - 🧠 Interests: **Predictive Analytics, NLP, Dashboards**
 - 🇨🇦 Actively seeking **Data Analyst / BI roles in Canada**
