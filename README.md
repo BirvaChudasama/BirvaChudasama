@@ -2,15 +2,15 @@
 <h3 align="center">Data Analyst | ML Enthusiast | Power BI | Python</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/birva-chudasama/">LinkedIn</a> •
   <a href="https://birvachudasama.github.io/">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:birva210@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 3 years of Experience  as Data Analyst
+- 🎓 3 years of Experience  as a Data Analyst
 - 📊 Strong in **Data Analysis, Visualization & ML**
 - 🧠 Interests: **Predictive Analytics, NLP, Dashboards**
 - 🇨🇦 Actively seeking **Data Analyst / BI roles in Canada**
