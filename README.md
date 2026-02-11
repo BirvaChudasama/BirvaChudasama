@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/birva-chudasama/">LinkedIn</a> •
-  <a href="https://birvachudasama.github.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fbirvachudasama.github.io%2FBirvaChudasama_Portfolio.github.io%2F&urlhash=v84x&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_add_summary%3BtQsrVMbkTymSQT6sgwOt8g%3D%3D">Portfolio</a> •
   <a href="mailto:birva210@gmail.com">Email</a>
 </p>
 
